@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+underthesea
+gensim
+scipy
+regex
+emoji
+streamlit
+joblib
+scikit-surprise
